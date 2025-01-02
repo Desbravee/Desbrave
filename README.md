@@ -17,8 +17,21 @@ but also the leap into electronic typesetting, remaining essentially unchanged. 
 
 ## Contributors
 
-[![MatheusPablo](https://avatars.githubusercontent.com/u/73856049?v=4)](https://github.com/MatheusPablo)
-[![wenderson23](https://avatars.githubusercontent.com/u/127116781?v=4)](https://github.com/wenderson23)
-[![ThainaSantoss](https://avatars.githubusercontent.com/u/141286410?v=4)](https://github.com/ThainaSantoss)
-[![Paulo0310](https://avatars.githubusercontent.com/u/191514573?v=4)](https://github.com/Paulo0310)
-[![ayronmts](https://avatars.githubusercontent.com/u/193444112?v=4)](https://github.com/ayronmts)
+<div align="center">
+  <a href="https://github.com/MatheusPablo">
+    <img src="https://avatars.githubusercontent.com/u/73856049?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
+  </a>
+  <a href="https://github.com/wenderson23">
+    <img src="https://avatars.githubusercontent.com/u/127116781?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
+  </a>
+  <a href="https://github.com/ThainaSantoss">
+    <img src="https://avatars.githubusercontent.com/u/141286410?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
+  </a>
+  <a href="https://github.com/Paulo0310">
+    <img src="https://avatars.githubusercontent.com/u/191514573?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
+  </a>
+  <a href="https://github.com/ayronmts">
+    <img src="https://avatars.githubusercontent.com/u/193444112?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
+  </a>
+</div>
+
