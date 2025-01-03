@@ -21,9 +21,13 @@ Knowby oferece cursos online gratuitos sobre cultura local, educação digital e
 BREVE
 
 ## Contribuidores
+
 <div align="center">
   <a href="https://github.com/MatheusPablo">
     <img src="https://avatars.githubusercontent.com/u/73856049?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
+  </a>
+  <a href="https://github.com/AbsolutDuo23">
+    <img src="https://avatars.githubusercontent.com/u/100606418?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
   </a>
   <a href="https://github.com/wenderson23">
     <img src="https://avatars.githubusercontent.com/u/127116781?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
@@ -40,6 +44,9 @@ BREVE
   <a href="https://github.com/FabianneDiaas">
     <img src="https://avatars.githubusercontent.com/u/192899468?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
   </a>
+  <a href="https://github.com/ThainacfAraujo">
+    <img src="https://avatars.githubusercontent.com/u/193288759?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
+  </a>
   <a href="https://github.com/MiTabosa">
     <img src="https://avatars.githubusercontent.com/u/193292299?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
   </a>
@@ -47,6 +54,7 @@ BREVE
     <img src="https://avatars.githubusercontent.com/u/193444112?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
   </a>
 </div>
+
 
 
 
