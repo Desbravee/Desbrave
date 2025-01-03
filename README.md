@@ -6,16 +6,21 @@
 
 ![be](https://img.shields.io/badge/Version-v1.0.0-orange)
 
-## About
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## Sobre
+Knowby é Plataforma de Cultura e Educação Digital
+Criada para resolver desafios de acesso à cultura e à educação digital em Recife, conectando jovens ao rico patrimônio cultural da cidade e promovendo cidadania digital.
 
-## Features
-centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+## Novidades
+Fóruns Interativos:
+De discussão permitem que jovens compartilhem ideias, aprendam uns com os outros e formem comunidades.
+Desafios Gamificados:
+Desafios culturais gamificados motivam o aprendizado e aumentam o engajamento, com recompensas e reconhecimento.
+Cursos Gratuitos:
+Knowby oferece cursos online gratuitos sobre cultura local, educação digital e cidadania digital.
+## Instalação
+BREVE
 
-## Installation
-but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-## Contributors
+## Contribuidores
 <div align="center">
   <a href="https://github.com/MatheusPablo">
     <img src="https://avatars.githubusercontent.com/u/73856049?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
