@@ -1,13 +1,13 @@
 <div>
   
-<h1 align="center">KnowBy</h1>
+<h1 align="center">Desbrave</h1>
 
 </div>
 
 ![be](https://img.shields.io/badge/Version-v1.0.0-orange)
 
 ## Sobre
-Knowby é Plataforma de Cultura e Educação Digital
+Desbrave é Plataforma de Cultura e Educação Digital
 Criada para resolver desafios de acesso à cultura e à educação digital em Recife, conectando jovens ao rico patrimônio cultural da cidade e promovendo cidadania digital.
 
 ## Novidades
@@ -16,7 +16,7 @@ De discussão permitem que jovens compartilhem ideias, aprendam uns com os outro
 Desafios Gamificados:
 Desafios culturais gamificados motivam o aprendizado e aumentam o engajamento, com recompensas e reconhecimento.
 Cursos Gratuitos:
-Knowby oferece cursos online gratuitos sobre cultura local, educação digital e cidadania digital.
+Desbrave oferece cursos online gratuitos sobre cultura local, educação digital e cidadania digital.
 ## Instalação
 BREVE
 
