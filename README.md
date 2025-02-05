@@ -115,10 +115,10 @@ Escaneie o QR Code abaixo para acessar a plataforma Desbrave:
   <a href="https://github.com/MatheusPablo">
     <img src="https://avatars.githubusercontent.com/u/73856049?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
   </a>
-  <a href="https://github.com/AbsolutDuo23">
+  <a href="https://github.com/JonathanFelipeD">
     <img src="https://avatars.githubusercontent.com/u/100606418?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
   </a>
-  <a href="https://github.com/wenderson23">
+  <a href="https://github.com/wendersonJonatha">
     <img src="https://avatars.githubusercontent.com/u/127116781?v=4" width="100" height="100" style="border-radius: 50%; margin: 5px;">
   </a>
   <a href="https://github.com/ThainaSantoss">
