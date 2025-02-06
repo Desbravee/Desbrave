@@ -10,6 +10,11 @@ O **Desbrave** é uma plataforma digital interativa que combina:
 - **Sistema de QR Code** Escaneie QR Codes espalhados pelos pontos turísticos de Recife para acumular pontos.
 - **Acessível / Amigavel** A plataforma é otimizada para dispositivos móveis e possui uma interface intuitiva e fácil de usar.
 
+  ## 🌍 Impacto Social
+- **Aumentar o engajamento dos jovens** com a cultura local de Recife.
+- **Reduzir a exclusão digital** em comunidades periféricas, criando oportunidades de aprendizado e desenvolvimento digital.
+- **Fortalecer a identidade cultural** de Recife ao conectar os jovens com a história e tradições da cidade.
+
 Nosso objetivo é conectar jovens de 13 a 25 anos à cultura e à educação digital, reduzindo a exclusão digital em Recife e fortalecendo o patrimônio cultural da cidade.
 
 ---
@@ -68,14 +73,6 @@ Back-end (API): http://localhost:8081
 3.Cursos: Acesso a cursos gratuitos, com vídeos, textos e quizzes, para capacitar jovens sobre cultura e cidadania digital.
 
 4.Dashboard do Usuário: Área personalizada com informações sobre o progresso, conquistas e métricas de aprendizado.
-
-## 🌍 Impacto Social
-- **Aumentar o engajamento dos jovens** com a cultura local de Recife.
-- **Reduzir a exclusão digital** em comunidades periféricas, criando oportunidades de aprendizado e desenvolvimento digital.
-- **Fortalecer a identidade cultural** de Recife ao conectar os jovens com a história e tradições da cidade.
-
-
-  
 
 
 🤝 Como Contribuir
