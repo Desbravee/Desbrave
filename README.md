@@ -42,22 +42,23 @@ Os jovens precisam de um espaço que seja:
 
 ### Passos para Execução
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/Desbrave.git
-   cd Desbrave
+```bash
+git clone https://github.com/seu-usuario/Desbrave.git
+cd Desbrave
+```
 
 2- Inicie os contêineres com Docker Compose:
 
-bash
-Copy
-docker-compose up --build
-
+   ```bash
+   Copy
+   docker-compose up --build
+   ```
 3-Acesse a aplicação:
-
+```bash
 Front-end: http://localhost:8080
 
 Back-end (API): http://localhost:8081
-
+```
 🧩 Funcionalidades:
 
 1.Cadastro e Login:  Autenticação segura e personalizada para cada usuário, garantindo a proteção dos dados.
@@ -83,23 +84,30 @@ Back-end (API): http://localhost:8081
 
 2.Crie uma branch para sua feature:
 
-bash
+```bash
 Copy
 git checkout -b minha-feature
-
+```
 3- Commit suas alterações:
-
+```bash
 bash
 Copy
 git commit -m "Adicionei uma nova funcionalidade"
-
+```
 4- Envie para o repositório remoto:
 
-bash
+```bash
 Copy
 git push origin minha-feature
+```
+5- Abra um Pull Request.
 
-5. Abra um Pull Request.
+- Acesse o repositório no GitHub.  
+- Vá até a aba **Pull Requests**.  
+- Clique em **New Pull Request**.  
+- Escolha a branch `minha-feature` como origem e a branch principal (`main` ou `develop`, conforme o fluxo do projeto) como destino.  
+- Revise as alterações e adicione uma descrição explicando o que foi feito.  
+- Clique em **Create Pull Request** para enviar sua contribuição para revisão.
 
 
 ## Acesse a Plataforma Desbrave
