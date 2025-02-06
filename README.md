@@ -32,7 +32,7 @@ Os jovens precisam de um espaço que seja:
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Front-end**: HTML, CSS, JavaScript  — Usamos essas tecnologias para criar uma interface intuitiva e acessível para todos os públicos.
+- **Front-end**: HTML, CSS, JavaScript, React — Usamos essas tecnologias para criar uma interface intuitiva e acessível para todos os públicos.
 - **Back-end**: Java com Spring Boot — Escolhemos o Spring Boot pela robustez e segurança que ele oferece para a construção de APIs.
 - **Banco de Dados**: MySQL  — Banco de dados relacional, ideal para armazenar os dados de usuários e conteúdo de cursos e fóruns.
 - **Infraestrutura**: Docker — Garantindo portabilidade e facilidade de implantação através de contêineres.
