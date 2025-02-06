@@ -116,7 +116,7 @@ Escaneie o QR Code abaixo para acessar a plataforma Desbrave:
 
 ![ImagemDes](https://github.com/user-attachments/assets/54c7eb15-f61b-49f1-8319-eab531c64845)
 
-## Contribuidores
+## 👤💻 Contribuidores
 
 <div align="center">
   <a href="https://github.com/MatheusPablo">
